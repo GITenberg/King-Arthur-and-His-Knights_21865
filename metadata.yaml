@@ -1,0 +1,37 @@
+_repo: King-Arthur-and-His-Knights_21865
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Enright, Walter J. (Walter Joseph)
+    birthdate: 1879
+    deathdate: 1969
+    gutenberg_agent_id: '24939'
+    url: http://www.gutenberg.org/2009/agents/24939
+covers:
+- cover_type: archival
+  image_path: 21865-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Warren, Maude Radford
+    aliases:
+    - Warren, Maude Lavinia Radford
+    - Radford, Maude L. (Maude Lavinia)
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '24938'
+    url: http://www.gutenberg.org/2009/agents/24938
+description: ''
+gutenberg_issued: '2007-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21865'
+  lccn: '03020450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Arthur, King -- Juvenile literature'
+title: King Arthur and His Knights
+url: http://www.gutenberg.org/ebooks/21865
